@@ -1,6 +1,6 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)
 <h1 align="center">Hi 👋, I'm Sahil Wagh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilwagh1&label=Profile%20views&color=0e75b6&style=flat" alt="sahilwagh1" /> </p>
 <img align="right" width= 400 alt="coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWYxMTU3OWVkMGVkM2NkYTc5NmFlNGIxYzZkNDM0ZjZiOTU5MDY3ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
