@@ -1,29 +1,115 @@
-![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)
-<h1 align="center">Hi 👋, I'm Sahil Wagh</h1>
-<h3 align="center">A passionate Programmer from India</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilwagh1&label=Profile%20views&color=0e75b6&style=flat" alt="sahilwagh1" /> </p>
-<img align="right" width= 400 alt="coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWYxMTU3OWVkMGVkM2NkYTc5NmFlNGIxYzZkNDM0ZjZiOTU5MDY3ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
-- 🌱 I’m currently learning **TensorFlow**
+    header {
+      background-color: #333;
+      padding: 20px;
+      text-align: center;
+      color: #fff;
+    }
 
-- 💬 Ask me about **Java , Web Designing**
+    nav {
+      background-color: #555;
+      padding: 10px;
+    }
 
-- 📫 How to reach me **saiwagh999@gmail.com**
+    nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahil-wagh-3362a4277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahil-wagh-3362a4277/" height="30" width="40" /></a>
-<a href="https://kaggle.com/sahilwagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sahilwagh" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/_ok_sai?igshid=otk0yzhjmdvlza==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_ok_sai?igshid=otk0yzhjmdvlza==" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sahil_wagh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sahil_wagh" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/STezWwGK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/STezWwGK" height="30" width="40" /></a>
-</p>
+    nav ul li {
+      display: inline-block;
+      margin: 0 10px;
+    }
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+    nav ul li a {
+      color: #fff;
+      text-decoration: none;
+    }
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilwagh1&show_icons=true&locale=en&layout=compact" alt="sahilwagh1" /></p>
+    main {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilwagh1&show_icons=true&locale=en" alt="sahilwagh1" /></p>
+    h1 {
+      font-size: 32px;
+      margin-bottom: 20px;
+    }
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilwagh1&" alt="sahilwagh1" /></p>
+    h2 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>My Portfolio</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="projects">
+      <h2>Projects</h2>
+      <p>Description of Project 1</p>
+      <p>Description of Project 2</p>
+      <!-- Add more projects as necessary -->
+    </section>
+
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>Skill 1</li>
+        <li>Skill 2</li>
+        <li>Skill 3</li>
+        <!-- Add more skills as necessary -->
+      </ul>
+    </section>
+
+    <section id="education">
+      <h2>Education</h2>
+      <ul>
+        <li>Degree 1: University Name, Year</li>
+        <li>Degree 2: University Name, Year</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>You can reach me at <a href="mailto:email@example.com">email@example.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourusername">LinkedIn</a>.</p>
+      <!-- Add additional contact information as necessary -->
+    </section>
+  </main>
+</body>
+</html>
